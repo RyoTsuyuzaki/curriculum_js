@@ -10,16 +10,6 @@ function isEven(num) {
     };
 };
 isEven(numbers);
-// -------------------------------------------------
-
-// let numbers = [2, 5, 12, 13, 15, 18, 22];
-// //ここに答えを実装してください。↓↓↓
-// const filternum = numbers.filter(function isEven(num) {
-//     return num % 2 == 0 
-// });
-// console.log(filternum + 'は偶数です');
-
-// --------------------------------------------------
 
 
 class Car {
